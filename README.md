@@ -1,6 +1,6 @@
 # GenZ Slang App
 
-This project is a web application that helps users understand and learn GenZ slang. It is built using React, Cohere API, and Tailwind CSS.
+This project is a web application that helps users convert their boring text into a cool GenZ slang. It is built using React, Cohere API, and Tailwind CSS.
 
 ## Features
 
@@ -11,7 +11,7 @@ This project is a web application that helps users understand and learn GenZ sla
 ## Technologies Used
 
 - **React**: A JavaScript library for building user interfaces.
-- **Chere API**: An API to fetch slang definitions and examples.
+- **Cohere API**: An API to fetch slang definitions and examples.
 - **Tailwind CSS**: A utility-first CSS framework for styling the application.
 
 ## Installation
